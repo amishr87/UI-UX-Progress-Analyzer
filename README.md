@@ -7,19 +7,17 @@ https://www.figma.com/file/naobjS8YCI4q0haG5v8hhF/CSE463-(Copy)?type=design&node
 ## Preview
 
 Login Page:
-<img width="1512" alt="Screenshot 2024-04-03 at 9 40 48 PM" src="https://github.com/amishr87/UI-UX-Progress-Analyzer/assets/160732081/acb5dbb7-1724-44f4-9d55-bafb20107990">
-
+<img width="1512" alt="Screenshot 2024-04-03 at 9 44 38 PM" src="https://github.com/amishr87/UI-UX-Progress-Analyzer/assets/160732081/18d9c9f8-55c6-469b-8c17-2d4460df2abb">
 
 Analyzer Page:
-<img width="1512" alt="Screenshot 2024-04-03 at 9 40 53 PM" src="https://github.com/amishr87/UI-UX-Progress-Analyzer/assets/160732081/f4300350-8446-4ac9-9759-b18a24506608">
-
+<img width="1512" alt="Screenshot 2024-04-03 at 9 44 43 PM" src="https://github.com/amishr87/UI-UX-Progress-Analyzer/assets/160732081/5db3f445-b1c2-4860-9ac3-b8cf99616fae">
 
 Activity Entry Page:
-<img width="1512" alt="Screenshot 2024-04-03 at 9 41 03 PM" src="https://github.com/amishr87/UI-UX-Progress-Analyzer/assets/160732081/5fc8fffb-270a-421a-964b-20b496853cbf">
-
+<img width="1512" alt="Screenshot 2024-04-03 at 9 44 48 PM" src="https://github.com/amishr87/UI-UX-Progress-Analyzer/assets/160732081/fba575a6-48e5-4440-a654-e5b76d561b0d">
 
 Notes Page:
-<img width="1512" alt="Screenshot 2024-04-03 at 9 41 07 PM" src="https://github.com/amishr87/UI-UX-Progress-Analyzer/assets/160732081/16483426-0657-4d9d-9de6-7c6e9eb455a0">
+<img width="1512" alt="Screenshot 2024-04-03 at 9 44 53 PM" src="https://github.com/amishr87/UI-UX-Progress-Analyzer/assets/160732081/9f78724a-2909-40c7-8e30-f9193aba56a4">
+
 
 
 

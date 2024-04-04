@@ -1,5 +1,5 @@
-# UI-UX-Apple.com
-UI/UX Design Prototype for Apple Website in Figma
+# UI-UX-Progress-Analyzer
+UI/UX Design Prototype for Skill Progress Analyzer website in Figma
 
 ## Access Link
 https://www.figma.com/file/naobjS8YCI4q0haG5v8hhF/CSE463-(Copy)?type=design&node-id=0%3A1&mode=design&t=XJ4NYUgdfGWPAMFw-1 

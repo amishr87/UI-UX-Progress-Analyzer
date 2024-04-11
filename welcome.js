@@ -1,1 +1,1 @@
-console.log("Hello Viewers")
+console.log("Welcome to Proglyzer")

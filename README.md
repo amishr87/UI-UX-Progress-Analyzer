@@ -25,5 +25,3 @@ Notes Page:
 <img width="1512" alt="Screenshot 2024-04-03 at 9 44 53 PM" src="https://github.com/amishr87/UI-UX-Progress-Analyzer/assets/160732081/9f78724a-2909-40c7-8e30-f9193aba56a4">
 
 
-
-
